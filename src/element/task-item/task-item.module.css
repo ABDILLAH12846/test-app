@@ -1,0 +1,30 @@
+.container {
+  width: 100%;
+  display: flex;
+  gap: 20px;
+  padding: 10px 15px;
+  border: 1px solid #121212;
+  border-radius: 6px;
+  align-items: center;
+  box-sizing: border-box;
+}
+.text {
+  flex: 1;
+  font-size: 16px;
+  font-weight: 500;
+  color: #121212;
+  text-decoration: line-through;
+  cursor: pointer;
+}
+.statusChip {
+  width: 90px;
+  box-sizing: border-box;
+  padding: 5px 10px;
+  border-radius: 6px;
+  background-color: #488a36;
+  color: #fff;
+  text-align: center;
+}
+.yellowBackground {
+  background-color: #bea61c;
+}

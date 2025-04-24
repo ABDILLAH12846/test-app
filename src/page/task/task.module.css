@@ -1,0 +1,35 @@
+.container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding: 40px 20px;
+  box-sizing: border-box;
+}
+.wrapper {
+  width: 100%;
+  max-width: 600px;
+  min-height: 200px;
+  max-height: 100%;
+  border-radius: 12px;
+  border: 1px solid #121212;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  overflow: auto;
+}
+.listBox{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  flex: 1;
+  box-sizing: border-box;
+}
+.buttonBox {
+  width: 100%;
+  box-sizing: border-box;
+  position: sticky;
+  bottom: 0;
+}

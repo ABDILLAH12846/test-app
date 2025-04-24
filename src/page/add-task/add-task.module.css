@@ -1,0 +1,19 @@
+.container {
+  width: 100%;
+  min-height: 100vh;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrapper {
+  width: 100%;
+  max-width: 540px;
+  border: 1px solid #121212;
+  border-radius: 12px;
+  display: flex;
+  padding: 20px;
+  flex-direction: column;
+  gap: 20px;
+  box-sizing: border-box;
+}

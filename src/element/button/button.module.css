@@ -1,0 +1,17 @@
+.container {
+  width: 100%;
+  display: flex;
+  box-sizing: border-box;
+  padding: 10px 15px;
+  border-radius: 6px;
+  background-color: #121212;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  gap: 20px;
+}
