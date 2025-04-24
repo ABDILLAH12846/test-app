@@ -45,7 +45,7 @@ Password: 12345
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/test-app.git
+git clone https://github.com/ABDILLAH12846/test-app.git
 cd test-app
 ```
 
